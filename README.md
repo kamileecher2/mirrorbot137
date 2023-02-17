@@ -335,7 +335,7 @@ help - All cmds with description
 ## Deploying on Heroku
 - Token Pickle URL is must for deploying on Heorku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/rahulkhatri137/mirrorbot137-deployer&template=https://github.com/rahulkhatri137/mirrorbot137-deployer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 - Deploying on Heroku with Github Workflow
